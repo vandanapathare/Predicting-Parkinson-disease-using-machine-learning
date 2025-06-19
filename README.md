@@ -1,1 +1,1 @@
-# Predicting-Parkinson-s-disease-using-machine-learning
+# Predicting Parkinson's disease using machine learning.
